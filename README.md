@@ -1,1 +1,1 @@
-# GenAIProjects
+#MyProjects
